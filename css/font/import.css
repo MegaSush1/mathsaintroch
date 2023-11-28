@@ -1,0 +1,106 @@
+@font-face
+{
+	font-family: 'boltzz';
+	src: url("boltzz_sans/BOLTZZ.woff2") format('woff2');
+	font-style: normal;
+	font-weight:500;
+}
+
+@font-face
+{
+	font-family: 'creato';
+	src: url("creato_display/CreatoDisplay-Black.woff2") format('woff2');
+	font-style: normal;
+	font-weight:800;
+}
+@font-face
+{
+	font-family: 'creato';
+	src: url("creato_display/CreatoDisplay-BlackItalic.woff2") format('woff2');
+	font-style: italic;
+	font-weight:800;
+}
+@font-face
+{
+	font-family: 'creato';
+	src: url("creato_display/CreatoDisplay-ExtraBold.woff2") format('woff2');
+	font-style: normal;
+	font-weight:700;
+}
+@font-face
+{
+	font-family: 'creato';
+	src: url("creato_display/CreatoDisplay-ExtraBoldItalic.woff2") format('woff2');
+	font-style: italic;
+	font-weight:700;
+}
+@font-face
+{
+	font-family: 'creato';
+	src: url("creato_display/CreatoDisplay-Bold.woff2") format('woff2');
+	font-style: normal;
+	font-weight:600;
+}
+@font-face
+{
+	font-family: 'creato';
+	src: url("creato_display/CreatoDisplay-BoldItalic.woff2") format('woff2');
+	font-style: italic;
+	font-weight:600;
+}
+@font-face
+{
+	font-family: 'creato';
+	src: url("creato_display/CreatoDisplay-Medium.woff2") format('woff2');
+	font-style: normal;
+	font-weight:500;
+}
+@font-face
+{
+	font-family: 'creato';
+	src: url("creato_display/CreatoDisplay-MediumItalic.woff2") format('woff2');
+	font-style: italic;
+	font-weight:500;
+}
+@font-face
+{
+	font-family: 'creato';
+	src: url("creato_display/CreatoDisplay-Regular.woff2") format('woff2');
+	font-style: normal;
+	font-weight:400;
+}
+@font-face
+{
+	font-family: 'creato';
+	src: url("creato_display/CreatoDisplay-RegularItalic.woff2") format('woff2');
+	font-style: italic;
+	font-weight:400;
+}
+@font-face
+{
+	font-family: 'creato';
+	src: url("reato_display/CreatoDisplay-Light.woff2") format('woff2');
+	font-style: normal;
+	font-weight:300;
+}
+@font-face
+{
+	font-family: 'creato';
+	src: url("creato_display/CreatoDisplay-LightItalic.woff2") format('woff2');
+	font-style: italic;
+	font-weight:300;
+}
+@font-face
+{
+	font-family: 'creato';
+	src: url("creato_display/CreatoDisplay-Thin.woff2") format('woff2');
+	font-style: normal;
+	font-weight:200;
+}
+@font-face
+{
+	font-family: 'creato';
+	src: url("creato_display/CreatoDisplay-ThinItalic.woff2") format('woff2');
+	font-style: italic;
+	font-weight:200;
+}
