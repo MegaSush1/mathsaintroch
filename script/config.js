@@ -37,15 +37,15 @@ var Math6TT = [
 
 var menuMath4TT = ""
 for (let i=0 ; i < Math4TT.length; i++){
-	menuMath4TT += `<li><a href="/c/4TT/`+Math4TT[i][1]+`">`+Math4TT[i][0]+`</a></li>`;
+	menuMath4TT += `<li><a href="/mathsaintroch/c/4TT/`+Math4TT[i][1]+`">`+Math4TT[i][0]+`</a></li>`;
 }
 var menuMath5TT = ""
 for (let i=0 ; i < Math5TT.length; i++){
-	menuMath5TT += `<li><a href="/c/5TT/`+Math5TT[i][1]+`">`+Math5TT[i][0]+`</a></li>`;
+	menuMath5TT += `<li><a href="/mathsaintroch/c/5TT/`+Math5TT[i][1]+`">`+Math5TT[i][0]+`</a></li>`;
 }
 var menuMath6TT = ""
 for (let i=0 ; i < Math6TT.length; i++){
-	menuMath6TT += `<li><a href="/c/6TT/`+Math6TT[i][1]+`">`+Math6TT[i][0]+`</a></li>`;
+	menuMath6TT += `<li><a href="/mathsaintroch/c/6TT/`+Math6TT[i][1]+`">`+Math6TT[i][0]+`</a></li>`;
 }
 if (document.getElementById("m4") != null && document.getElementById("m5") && document.getElementById("m6")){
 	document.getElementById("m4").innerHTML = menuMath4TT
